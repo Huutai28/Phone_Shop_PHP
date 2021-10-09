@@ -1,0 +1,6 @@
+Đồ án cá nhân kết thúc môn PHP.
+Đồ án phát triển website bán điện thoại sử dụng ngôn ngữ PHP
+và cở sở dữ liệu MySQl
+
+link google drive:
+https://drive.google.com/drive/folders/1AaTiEa5cfuZlZhv8LsGIvlEY_0jlM38w?usp=sharing
